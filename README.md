@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filupdilrosi&label=Profile%20views&color=0e75b6&style=flat" alt="filupdilrosi" /> </p>
 
-- 🌱 I’m currently learning **Python, HTML, CSS, JS, Swift**
+- 🌱 I’m currently learning **Python, HTML, CSS, JS, Swift, Data Structures**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
